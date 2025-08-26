@@ -74,7 +74,7 @@ https://simpleicons.org/?q=api
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=munhyu&hide=stars,contribs&count_private=true&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munhyu)](https://github.com/anuraghazra/github-readme-stats)
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munhyu)](https://github.com/anuraghazra/github-readme-stats)  -->
   
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munhyu\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
