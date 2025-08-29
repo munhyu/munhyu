@@ -9,6 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
+  #### Email: ansdudgb@gmail.com
   #### 💻 Learning to Code
   #### 🌱 Growing to Become a Developer
 
